@@ -1,7 +1,7 @@
 ### 16-bit Hack Computer Design | *Hardware Description Language (HDL), Digital Logic, Computer Architecture*
 
-![Hack Computer Diagram, as specified by NANDtoTetris](![image](https://github.com/user-attachments/assets/f5d71153-3c6f-4115-aa1b-2d1fa763c46a)
-)
+![image](https://github.com/user-attachments/assets/9b9c2b8e-4b90-408a-856f-ae4d84f5db4e)
+
 
 Hack Computer Diagram, as specified by NANDtoTetris
 
