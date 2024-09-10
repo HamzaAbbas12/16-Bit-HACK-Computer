@@ -1,7 +1,8 @@
 ### 16-bit Hack Computer Design | *Hardware Description Language (HDL), Digital Logic, Computer Architecture*
 
-![image](https://github.com/user-attachments/assets/9b9c2b8e-4b90-408a-856f-ae4d84f5db4e)
 
+
+![image](https://github.com/user-attachments/assets/9311ad8b-5a4e-48bc-af58-121114ba3e99)
 
 Hack Computer Diagram, as specified by NANDtoTetris
 
@@ -28,7 +29,8 @@ The development of the Hack Computer followed a **bottom-up design methodology**
 
 ### 1. Central Processing Unit (CPU)
 
-![CPU Diagram from NANDtoTetris](https://prod-files-secure.s3.us-west-2.amazonaws.com/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/fbbd2000-06d2-43d9-92be-917e3c66ed20/image.png)
+![image](https://github.com/user-attachments/assets/331952d5-6c35-4043-87b5-fe9cfc543924)
+
 
 CPU Diagram from NANDtoTetris
 
@@ -64,7 +66,7 @@ Major file associated: `Memory.hdl`
 
 This 16-bit Hack Computer project highlights key concepts in **combinational** and **sequential logic design**, **memory management**, and the implementation of an **instruction set architecture** (ISA). The CPU, ALU, and Memory modules work in harmony to execute complex programs, all designed using HDL and tested through Hack assembly code.
 
-![NANDtoTetris Hardware Simulator](https://prod-files-secure.s3.us-west-2.amazonaws.com/36f435f9-c7ed-4b9b-b7a8-34d997078d9c/c9952e0c-9d42-408c-af9b-b5a944ea5a0a/image.png)
+![image](https://github.com/user-attachments/assets/9b9c2b8e-4b90-408a-856f-ae4d84f5db4e)
 
 NANDtoTetris Hardware Simulator
 
